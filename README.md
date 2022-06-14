@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Litmee
 - 👀 I’m interested in Java TypeScript Vue C++ Go
-- 🌱 I’m currently learning C++ Go
+- 🌱 I’m currently in China
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
